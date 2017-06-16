@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.ejml:simple:0.27:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ejml/simple/jars/simple-0.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.ejml/simple/srcs/simple-0.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

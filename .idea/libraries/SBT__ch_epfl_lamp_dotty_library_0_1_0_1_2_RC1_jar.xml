@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="SBT: ch.epfl.lamp:dotty-library_0.1:0.1.2-RC1:jar" type="Scala">
+    <properties>
+      <option name="platform" value="Dotty" />
+      <option name="languageLevel" value="Snapshot" />
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty-compiler_0.1/jars/dotty-compiler_0.1-0.1.2-RC1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty-interfaces/jars/dotty-interfaces-0.1.2-RC1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty-library_0.1/jars/dotty-library_0.1-0.1.2-RC1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty_0.1/jars/dotty_0.1-0.1.2-RC1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/scala-library/jars/scala-library-0.1.2-RC1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-asm/bundles/scala-asm-5.1.0-scala-2.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty-library_0.1/jars/dotty-library_0.1-0.1.2-RC1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ch.epfl.lamp/dotty-library_0.1/srcs/dotty-library_0.1-0.1.2-RC1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

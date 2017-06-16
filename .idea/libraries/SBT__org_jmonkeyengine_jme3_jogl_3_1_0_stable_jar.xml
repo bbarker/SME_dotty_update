@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jmonkeyengine:jme3-jogl:3.1.0-stable:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jmonkeyengine/jme3-jogl/jars/jme3-jogl-3.1.0-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jmonkeyengine/jme3-jogl/srcs/jme3-jogl-3.1.0-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
